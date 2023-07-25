@@ -1,2 +1,2 @@
 **This is insane**
-[Profile]('https://salnet.xyz')
+[Profile](https://salnet.xyz)
