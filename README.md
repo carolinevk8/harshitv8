@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<h2>This is Harshit Here</h2>
-![Profile](./113101643.png)
+**Rohit Jain**
 
-- Follow me on twitter [@salnetxyz](https://twitter.com/salnetxyz)
+- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
