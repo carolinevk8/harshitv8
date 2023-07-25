@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-<h2>Sahil is not so cool</h2>
-# sahil is cool
-
+<h1 align="center">Sahil</h1>
 **This is insane**
+[Profile](https://salnet.xyz)
